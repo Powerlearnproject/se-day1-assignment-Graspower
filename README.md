@@ -12,7 +12,7 @@ technology- allows development of various softwares that improve aspects of life
 Identify and describe at least three key milestones in the evolution of software engineering.
 1960-development of first programing languages 
 1970-advent of structered programing 
-1960-development of Agile methodologies
+2000-development of Agile methodologies
 
 List and briefly explain the phases of the Software Development Life Cycle.
 requirements- includes writing codes and building software according to design.
